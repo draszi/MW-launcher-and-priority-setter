@@ -8,5 +8,5 @@ Things you will need to configure;
     1. Change file path of Modern Warfare.exe
     2. Change file path of priority setter and make sure to set it to the name of the priority you wish to have ie..
 
-      Above Normal => priority-setter-AN.exe
-      Normal => priority-setter-N.exe
+      * Above Normal => priority-setter-AN.exe
+      * Normal => priority-setter-N.exe
