@@ -11,3 +11,8 @@ Things you will need to configure;
       * Above Normal => priority-setter-AN.exe
 <br />
       * Normal => priority-setter-N.exe
+<br />
+You can also change the icon of the bat file by doing the following
+
+1. Create shortcut of .bat file
+2. Right click>Properties>Shortcut>Change Icon...>set path to location of Modern Warfares .exe file (G:\Call of Duty Modern Warfare\Modern Warfare Launcher.exe for example)
