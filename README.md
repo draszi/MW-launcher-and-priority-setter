@@ -12,6 +12,7 @@ Things you will need to configure;
 <br />
       * Normal => priority-setter-N.exe
 <br />
+
 You can also change the icon of the bat file by doing the following
 
 1. Create shortcut of .bat file
