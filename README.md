@@ -9,4 +9,5 @@ Things you will need to configure;
     2. Change file path of priority setter and make sure to set it to the name of the priority you wish to have ie..
 <br />
       * Above Normal => priority-setter-AN.exe
+<br />
       * Normal => priority-setter-N.exe
